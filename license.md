@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Sorgubot 2026 İndir](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/sorgubot-2026)
+[![Sorgubot 2026 İndir](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/sorgubot-2026)
 
 </div>
 
@@ -110,7 +110,7 @@ Profesyonel bir güvenlik botuna ihtiyacınız var. Ücretsiz. Etkili. Kullanım
 7. **⚙️ Ayarları yapılandırın** — moderasyon kurallarını belirleyin
 8. **🚀 Botu başlatın** — sunucunuz koruma altında
 
-[![Sorgubot 2026 İndir](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/sorgubot-2026)
+[![Sorgubot 2026 İndir](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/sorgubot-2026)
 
 ### Bot Token'ı Alma
 
@@ -195,7 +195,7 @@ Sunucunuzu güvende tutun. **Sorgubot 2026** — gelişmiş güvenlik, otomatik 
 
 <div align="center">
 
-[![Sorgubot 2026 İndir](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/sorgubot-2026)
+[![Sorgubot 2026 İndir](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/sorgubot-2026)
 
 **Sürüm 4.6.1** — Discord güvenlik botu. Sonsuza dek ücretsiz.
 
